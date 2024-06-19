@@ -1,5 +1,9 @@
 # **Real-Time Vehicle License Plate Recognition Using Deep Learning**
 
+<p align="center">
+  <img src='https://github.com/Shuhaib73/ANPR_DeepLearning/blob/prj_branch/cv_data/readme_img.png' width='500' height='250' />
+</p>
+
 **Beyond Object Detection: Unlocking Content Within Objects**
 
 - Object detection has become a cornerstone of computer vision, enabling us to identify and locate objects in images and videos. However, the power of AI extends beyond simply recognizing "what's there." A crucial area within computer vision delves deeper, focusing on content recognition within objects.
