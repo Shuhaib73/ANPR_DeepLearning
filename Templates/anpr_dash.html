@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block title %}
+    <title>Number Plate Recognition Page</title>
+{% endblock %}
+
+{% block body %}
+
+    <h2>Welcome 22</h2>
+
+    <div class="container-upload">
+        <form method="post" enctype="multipart/form-data">
+            <p>Upload Image</p>
+            <label for="image-upload">
+                <input type="file" id="image-upload" name="image" accept="image/*">
+            </label>
+            <button type="submit" name="image_button">Upload Image</button>
+        </form></br></br>
+
+        <form method="post" enctype="multipart/form-data">
+            <label for="video-upload">
+                <input type="file" id="video-upload" name="video" accept="video/*">
+            </label>
+
+            <input type="radio" name="country" id="nation" value="india">
+            <label for="country">Indian</label>
+            
+            <input type="radio" name="country" id="nation" value="International">
+            <label for="country">International</label>
+            
+            <button type="submit" name="video_button">Upload Video</button>
+        </form>
+
+
+        
+
+    </div>
+
+{% endblock %}

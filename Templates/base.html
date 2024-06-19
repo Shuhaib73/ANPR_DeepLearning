@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", intial-scale="1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Automatic Number Plate Recognition">
+    <meta name="keywords" content="">
+    <meta name="author" content="Shuhaib">
+
+    {% block title %}
+        <title>Home Page</title>
+    {% endblock %}
+</head>
+<body>
+    {% block body %}
+        <h1>Welcome to the Number Plate Detection System</h1>
+        <a href="{{ url_for('Num_Detection_Page')}}">Go to Detection Page</a>
+    {% endblock %}
+
+</body>
+</html>
