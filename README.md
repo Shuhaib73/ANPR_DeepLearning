@@ -1,7 +1,7 @@
 # **Real-Time Vehicle License Plate Recognition Using Deep Learning**
 
 <p align="center">
-  <img src='https://github.com/Shuhaib73/ANPR_DeepLearning/blob/prj_branch/cv_data/readme_img.png' width='500' height='250' />
+  <img src='https://github.com/Shuhaib73/ANPR_DeepLearning/blob/prj_branch/cv_data/readme_img1.png' width='800' height='350' />
 </p>
 
 **Beyond Object Detection: Unlocking Content Within Objects**
